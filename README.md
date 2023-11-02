@@ -1,10 +1,10 @@
-#springboot-gentelella-thymeleaf#
+# Inventory Management System
 
-integrasi admin template https://github.com/puikinsh/gentelella dengan spring boot dan thymeleaf.
+## Tech Stack 
+1) https://github.com/puikinsh/gentelella
+2) https://spring.io/projects/spring-boot
 
-demo bisa di lihat di sini https://springboot-gentelella.herokuapp.com
-
-
-untuk menjalankan di local, ketikkan
-
-    mvn clean spring-boot:run
+## Run
+```shell
+$ ./mvnw clean spring-boot:run
+```
